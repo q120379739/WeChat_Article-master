@@ -1,7 +1,7 @@
 # WeChat_Article    
 爬取微信公众号文章    
 
-## WX_Article.exe为最最原始的版本，不再更新；真正的程序在py文件夹里！！！！！！！！
+## exe文件试用：WeChat_Article-master\Py\dist\main.exe；真正的代码在py文件夹里
 **注意，除非你要断点续传，否则删除目录下conf.ini和url.json再启动！！！！**
 
 爬取微信公众号有三种方法：      
